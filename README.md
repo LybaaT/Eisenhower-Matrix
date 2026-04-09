@@ -27,7 +27,7 @@ This tool provides a structured interface to apply this framework in practice, e
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/eisenhower-matrix.git
+git clone https://https://github.com/LybaaT/Eisenhower-Matrix.git
 cd eisenhower-matrix
 npm install
 npm run dev
